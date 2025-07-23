@@ -1,5 +1,6 @@
 import { BrowserProtocol } from 'farce';
 import createConnectedRouter from 'found/lib/createConnectedRouter';
+
 import getStoreRenderArgs from 'found/lib/getStoreRenderArgs';
 import AlertTemplate from './components/common/Alert';
 // import resolver from 'found/lib/resolver';
