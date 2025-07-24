@@ -1,4 +1,5 @@
 import { createHistoryEnhancer } from 'farce';
+
 import createMatchEnhancer from 'found/lib/createMatchEnhancer';
 import foundReducer from 'found/lib/foundReducer';
 import Matcher from 'found/lib/Matcher';
